@@ -1,0 +1,10 @@
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\bin\Debug\LogicaDifusa.exe.config
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\bin\Debug\LogicaDifusa.exe
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\bin\Debug\LogicaDifusa.pdb
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.AssemblyReference.cache
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.Form1.resources
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.Properties.Resources.resources
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.GenerateResource.cache
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.exe
+D:\Documentos\Proyectos Visual Studio\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.pdb
